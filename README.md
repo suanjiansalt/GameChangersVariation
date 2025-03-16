@@ -6,4 +6,4 @@ A truly amazing gamechangers mod
 
 ---
 
-`suanjiansalt.gamechangers` v0.2.0, by suanjiansalt. This README was automatically generated from the mod's manifest.
+`suanjiansalt.gamechangers` v0.3.0, by suanjiansalt. This README was automatically generated from the mod's manifest.
