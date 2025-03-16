@@ -1,9 +1,56 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Test Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.25.1"
+	"id": "suanjiansalt.gamechangers",
+	"name": "More Gamechangers",
+	"description": "A truly amazing gamechangers mod",
+	"authors": [
+		"suanjiansalt"
+	],
+	"frameworkVersion": "2.33.20",
+	"contentFolders": [
+		"contents"
+	],
+	"packagedefinition": [
+		{
+			"type": "entity",
+			"partition": "paris",
+			"path": "[assembly:/_pro/scenes/missions/paris/gamechangers_templateminefield.brick].entitytype"
+		},
+		{
+			"type": "entity",
+			"partition": "paris",
+			"path": "[assembly:/_pro/scenes/missions/paris/gamechangers_templateminefield.brick].entitytype"
+		},
+		{
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/gamechanger_hokkaido_minefieldvipsuites.brick].entitytype"
+		},
+		{
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/gamechanger_hokkaido_minefieldresort.brick].entitytype"
+		},
+		{
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/gamechanger_hokkaido_minefieldstaffs.brick].entitytype"
+		},
+		{
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/gamechanger_hokkaido_minefieldoutside.brick].entitytype"
+		},
+		{
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/gamechanger_hokkaido_minefieldhospital.brick].entitytype"
+		},
+		{
+			"type": "entity",
+			"partition": "hokkaido",
+			"path": "[assembly:/_pro/scenes/missions/hokkaido/gamechanger_hokkaido_minefieldextiblocking.brick].entitytype"
+		}
+	]
 }

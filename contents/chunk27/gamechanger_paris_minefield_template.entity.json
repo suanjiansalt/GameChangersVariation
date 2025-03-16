@@ -1,0 +1,58 @@
+{
+	"tempHash": "00B61BF281FFB3D4",
+	"tbluHash": "00580A976EA06319",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		},
+		"cafebfeb24fb8468": {
+			"parent": "fffffffffffffffe",
+			"name": "Gamechangers_TemplateMineField",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"cafe61df96637a1b": {
+			"parent": "cafebfeb24fb8468",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": {
+							"x": -285.3581848144531,
+							"y": 3.863128900527954,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "d9363c31-46c2-4bc5-b1bc-4e09ea324f9a"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}
