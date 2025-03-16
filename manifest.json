@@ -1,13 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"id": "suanjiansalt.gamechangers",
 	"name": "More Gamechangers",
 	"description": "A truly amazing gamechangers mod",
-	"authors": [
-		"suanjiansalt"
-	],
-	"frameworkVersion": "2.33.20",
+	"authors": ["suanjiansalt"],
+	"frameworkVersion": "2.33.23",
 	"options": [
 		{
 			"name": "Facility - Yacht",
@@ -15,9 +13,7 @@
 			"tooltip": "Add Facility - Yacht",
 			"enabledByDefault": false,
 			"type": "checkbox",
-			"contentFolders": [
-				"contents/polarbear_module002"
-			]
+			"contentFolders": ["contents/polarbear_module002"]
 		},
 		{
 			"name": "Facility - Hangar",
@@ -25,9 +21,7 @@
 			"tooltip": "Add Facility - Hangar",
 			"enabledByDefault": false,
 			"type": "checkbox",
-			"contentFolders": [
-				"contents/polarbear_graduation"
-			]
+			"contentFolders": ["contents/polarbear_graduation"]
 		},
 		{
 			"name": "Paris",
@@ -35,9 +29,7 @@
 			"tooltip": "Add Paris",
 			"enabledByDefault": false,
 			"type": "checkbox",
-			"contentFolders": [
-				"contents/paris"
-			]
+			"contentFolders": ["contents/paris"]
 		},
 		{
 			"name": "Hokkaido",
@@ -45,9 +37,7 @@
 			"tooltip": "Add Hokkaido",
 			"enabledByDefault": true,
 			"type": "checkbox",
-			"contentFolders": [
-				"contents/hokkaido"
-			]
+			"contentFolders": ["contents/hokkaido"]
 		}
 	],
 	"packagedefinition": [
@@ -91,5 +81,6 @@
 			"partition": "hokkaido",
 			"path": "[assembly:/_pro/scenes/missions/hokkaido/gamechanger_hokkaido_minefieldextiblocking.brick].entitytype"
 		}
-	]
+	],
+	"updateCheck": "https://github.com/suanjiansalt/GameChangersVariation/releases/latest/download/updates.json"
 }

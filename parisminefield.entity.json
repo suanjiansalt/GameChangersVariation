@@ -1,1237 +1,1171 @@
 {
-    "tempHash": "008F3D0B917C14EF",
-    "tbluHash": "00A384596C0C367F",
-    "rootEntity": "fffffffffffffffe",
-    "entities": {
-        "204c4246db1b2a49": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine21",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -331.0491943359375,
-                            "y": 4.218810081481934,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "d6bc6173-4f25-4e55-b844-930d12896ae9"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "a62011b4a30f50f1": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine14",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -331.0491943359375,
-                            "y": 15.109769821166992,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "f9264e38-94ce-4ef2-af41-8a6fe68b80d4"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "a99c157202a739fe": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine28",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -289.6000061035156,
-                            "y": 35.57038116455078,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "c9c7e9a5-ca1d-46f9-b931-8e5057358db1"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "425fbbaee4e236b9": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine16",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -292.0002136230469,
-                            "y": 50.837791442871094,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "eae4bc53-3c98-40bd-a606-97f2654f3375"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "fa91e6c5050aedf8": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine07",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -320.6264953613281,
-                            "y": 25.973899841308594,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "abe87eab-08ef-4fde-b0bf-d61a80242ba9"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "4beeac7f6612b937": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -285.3581848144531,
-                            "y": 3.863128900527954,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "d9363c31-46c1-4bc5-b1bc-4e09ea324f9a"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "1d4297a4eec93222": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine03",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -297.7240905761719,
-                            "y": 3.863128900527954,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "f9e85dc0-966d-420e-92f5-4d6e1694d8eb"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "38f9d762bde725d3": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine17",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -260.0527038574219,
-                            "y": 42.10462951660156,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "834c7d35-a111-4fc3-ba71-3939899ae38f"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "7891ba0a8330319d": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine12",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -301.077392578125,
-                            "y": 41.420501708984375,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "f77078fd-3a4c-4a3c-a1ee-4d226953fe54"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "fcb70eb94138f9e1": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine02",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -297.7240905761719,
-                            "y": 25.973899841308594,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "08a07716-401c-4333-bc24-fd56f346b221"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "9d7584bfa9eca882": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine22",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -340.1846923828125,
-                            "y": 15.109769821166992,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "17d331ae-31ff-43b0-94bd-a536df542016"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "8a5e86fb705a0175": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine01",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -285.3581848144531,
-                            "y": 25.973899841308594,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "b05f700c-77b4-4cb3-9d48-57fc64612b71"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "2861bf08a949dad0": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine10",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -274.6495056152344,
-                            "y": 27.878950119018555,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "141a653a-870b-404e-b53d-1f61c87cfd98"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "5f106dd243e9421f": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine19",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -266.4999084472656,
-                            "y": 69.35951232910156,
-                            "z": -1.5378639698028564
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "3a7ec8f4-7c75-4442-b4a3-4457c04decf2"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "e5b06af1bf53b433": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine11",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -324.1498107910156,
-                            "y": 41.420501708984375,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "ff82f563-6a70-414a-9b77-b67cbc0aab77"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "49f88c539bf8b1a8": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine05",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -310.1839904785156,
-                            "y": 3.863128900527954,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "31726f74-89fa-410a-9fbd-a7002d3e95d5"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "a845b8c6030558ce": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine09",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -274.6495056152344,
-                            "y": 15.686169624328612,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "e85c1091-1cb7-453a-9152-13583343fa8c"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "18ba41e9959d3aa8": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine23",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -340.31280517578125,
-                            "y": -1.4178760051727295,
-                            "z": -6.724240779876709
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "478530f1-362b-4697-b89e-f0c4262d2a49"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "29fad06e77208128": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine20",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -331.0491943359375,
-                            "y": 27.635419845581055,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "5f2e1c28-8782-4b8e-a436-90fda444fc5e"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "1ac17be9c44de6f7": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine15",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -312.5270080566406,
-                            "y": 50.837791442871094,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "b41aeace-313d-4685-b8dd-d93ea8e65a8e"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe",
-                    "postInit": true
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "fffffffffffffffe": {
-            "parent": null,
-            "name": "Scene",
-            "factory": "[modules:/zspatialentity.class].pc_entitytype",
-            "blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
-        },
-        "c44b28d3a0d794a4": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine27",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -310.1839904785156,
-                            "y": 35.57038116455078,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "07043f46-baef-458d-8fb4-ecf11f98b0ad"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "92a28ad785cd7509": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine24",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -345.6304016113281,
-                            "y": -6.930069923400879,
-                            "z": -6.724240779876709
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "091fab0a-1bd8-4736-bf65-5c82890ce226"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "321cfb98cb83e59e": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine08",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -274.6495056152344,
-                            "y": 3.863128900527954,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "26f7ffb9-d74b-4cd8-abf0-2efd25d59762"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "ecd7ea4ea020c9fd": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine06",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -320.6264953613281,
-                            "y": 3.863128900527954,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "25193493-c7fe-4b19-b39a-03d487669a0e"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "faba1ee522bdd557": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine26",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -340.31280517578125,
-                            "y": 32.16997146606445,
-                            "z": -6.724240779876709
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "518b026f-37db-464c-a2e3-54202be0e8e1"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "d68cc92e1810828a": {
-            "parent": "fffffffffffffffe",
-            "name": "Gamechangers_BackgardenMinefield",
-            "factory": "[modules:/zentity.class].pc_entitytype",
-            "blueprint": "[modules:/zentity.class].pc_entityblueprint"
-        },
-        "ebcd526f1fa4679b": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine18",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -260.0527038574219,
-                            "y": 58.533199310302734,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "4f73bf83-6fdf-4b62-b1cd-d6e4497ff4dc"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "f6b3670ac361703d": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine25",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -347.1451110839844,
-                            "y": 21.1270694732666,
-                            "z": -6.724240779876709
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "cf8f9438-7373-4bfd-8702-96438eb41704"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "d25071fa45b42f9b": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine04",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -310.1839904785156,
-                            "y": 25.973899841308594,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "0c919575-1564-4b1f-87cb-735fc00112b6"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "1fd47b1496099141": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine29",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -313.36090087890625,
-                            "y": 10.639439582824709,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "fc8387f4-2e2c-4d4a-ab2a-82193e3ab7a7"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "b60e9c94cd4cc889": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine13",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -278.148193359375,
-                            "y": 41.420501708984375,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "d070941a-7b55-47eb-b938-f72eb39ab3f0"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "012b38528d7fe710": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine31",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -274.797607421875,
-                            "y": 69.35951232910156,
-                            "z": -1.5378639698028564
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "f1d1df33-39d5-4e91-9bf7-d153a2fa921f"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "6541cd1f36f67c27": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine30",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -292.5909118652344,
-                            "y": 13.10256004333496,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "d60744bc-8518-460d-b687-449dd40358c0"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        },
-        "d8c12a1996199036": {
-            "parent": "d68cc92e1810828a",
-            "name": "SetPiece_GameChanger_Unique_HM_ProximityMine32",
-            "factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
-            "blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
-            "properties": {
-                "m_mTransform": {
-                    "type": "SMatrix43",
-                    "value": {
-                        "rotation": {
-                            "x": -0.0,
-                            "y": 0.0,
-                            "z": -0.0
-                        },
-                        "position": {
-                            "x": -269.214599609375,
-                            "y": 35.0382194519043,
-                            "z": -1.5206890106201172
-                        }
-                    }
-                },
-                "m_sId": {
-                    "type": "ZGuid",
-                    "value": "e81353a1-28eb-4d93-aeb1-bee5aebe0130"
-                },
-                "m_eidParent": {
-                    "type": "SEntityTemplateReference",
-                    "value": "fffffffffffffffe"
-                }
-            },
-            "subsets": {
-                "AudioEmitters": [
-                    "fffffffffffffffe"
-                ]
-            }
-        }
-    },
-    "propertyOverrides": [],
-    "overrideDeletes": [],
-    "pinConnectionOverrides": [],
-    "pinConnectionOverrideDeletes": [],
-    "externalScenes": [],
-    "subType": "brick",
-    "quickEntityVersion": 3.1,
-    "extraFactoryDependencies": [],
-    "extraBlueprintDependencies": [],
-    "comments": []
+	"tempHash": "008F3D0B917C14EF",
+	"tbluHash": "00A384596C0C367F",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"204c4246db1b2a49": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine21",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -331.0491943359375,
+							"y": 4.218810081481934,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "d6bc6173-4f25-4e55-b844-930d12896ae9"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"a62011b4a30f50f1": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine14",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -331.0491943359375,
+							"y": 15.109769821166992,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "f9264e38-94ce-4ef2-af41-8a6fe68b80d4"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"a99c157202a739fe": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine28",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -289.6000061035156,
+							"y": 35.57038116455078,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "c9c7e9a5-ca1d-46f9-b931-8e5057358db1"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"425fbbaee4e236b9": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine16",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -292.0002136230469,
+							"y": 50.837791442871094,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "eae4bc53-3c98-40bd-a606-97f2654f3375"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"fa91e6c5050aedf8": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine07",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -320.6264953613281,
+							"y": 25.973899841308594,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "abe87eab-08ef-4fde-b0bf-d61a80242ba9"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"4beeac7f6612b937": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -285.3581848144531,
+							"y": 3.863128900527954,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "d9363c31-46c1-4bc5-b1bc-4e09ea324f9a"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"1d4297a4eec93222": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine03",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -297.7240905761719,
+							"y": 3.863128900527954,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "f9e85dc0-966d-420e-92f5-4d6e1694d8eb"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"38f9d762bde725d3": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine17",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -260.0527038574219,
+							"y": 42.10462951660156,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "834c7d35-a111-4fc3-ba71-3939899ae38f"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"7891ba0a8330319d": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine12",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -301.077392578125,
+							"y": 41.420501708984375,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "f77078fd-3a4c-4a3c-a1ee-4d226953fe54"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"fcb70eb94138f9e1": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine02",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -297.7240905761719,
+							"y": 25.973899841308594,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "08a07716-401c-4333-bc24-fd56f346b221"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"9d7584bfa9eca882": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine22",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -340.1846923828125,
+							"y": 15.109769821166992,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "17d331ae-31ff-43b0-94bd-a536df542016"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"8a5e86fb705a0175": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine01",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -285.3581848144531,
+							"y": 25.973899841308594,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "b05f700c-77b4-4cb3-9d48-57fc64612b71"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"2861bf08a949dad0": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine10",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -274.6495056152344,
+							"y": 27.878950119018555,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "141a653a-870b-404e-b53d-1f61c87cfd98"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"5f106dd243e9421f": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine19",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -266.4999084472656,
+							"y": 69.35951232910156,
+							"z": -1.5378639698028564
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "3a7ec8f4-7c75-4442-b4a3-4457c04decf2"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"e5b06af1bf53b433": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine11",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -324.1498107910156,
+							"y": 41.420501708984375,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "ff82f563-6a70-414a-9b77-b67cbc0aab77"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"49f88c539bf8b1a8": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine05",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -310.1839904785156,
+							"y": 3.863128900527954,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "31726f74-89fa-410a-9fbd-a7002d3e95d5"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"a845b8c6030558ce": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine09",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -274.6495056152344,
+							"y": 15.686169624328612,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "e85c1091-1cb7-453a-9152-13583343fa8c"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"18ba41e9959d3aa8": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine23",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -340.31280517578125,
+							"y": -1.4178760051727295,
+							"z": -6.724240779876709
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "478530f1-362b-4697-b89e-f0c4262d2a49"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"29fad06e77208128": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine20",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -331.0491943359375,
+							"y": 27.635419845581055,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "5f2e1c28-8782-4b8e-a436-90fda444fc5e"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"1ac17be9c44de6f7": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine15",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -312.5270080566406,
+							"y": 50.837791442871094,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "b41aeace-313d-4685-b8dd-d93ea8e65a8e"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe",
+					"postInit": true
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		},
+		"c44b28d3a0d794a4": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine27",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -310.1839904785156,
+							"y": 35.57038116455078,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "07043f46-baef-458d-8fb4-ecf11f98b0ad"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"92a28ad785cd7509": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine24",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -345.6304016113281,
+							"y": -6.930069923400879,
+							"z": -6.724240779876709
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "091fab0a-1bd8-4736-bf65-5c82890ce226"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"321cfb98cb83e59e": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine08",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -274.6495056152344,
+							"y": 3.863128900527954,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "26f7ffb9-d74b-4cd8-abf0-2efd25d59762"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"ecd7ea4ea020c9fd": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine06",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -320.6264953613281,
+							"y": 3.863128900527954,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "25193493-c7fe-4b19-b39a-03d487669a0e"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"faba1ee522bdd557": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine26",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -340.31280517578125,
+							"y": 32.16997146606445,
+							"z": -6.724240779876709
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "518b026f-37db-464c-a2e3-54202be0e8e1"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"d68cc92e1810828a": {
+			"parent": "fffffffffffffffe",
+			"name": "Gamechangers_BackgardenMinefield",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"ebcd526f1fa4679b": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine18",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -260.0527038574219,
+							"y": 58.533199310302734,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "4f73bf83-6fdf-4b62-b1cd-d6e4497ff4dc"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"f6b3670ac361703d": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine25",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -347.1451110839844,
+							"y": 21.1270694732666,
+							"z": -6.724240779876709
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "cf8f9438-7373-4bfd-8702-96438eb41704"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"d25071fa45b42f9b": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine04",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -310.1839904785156,
+							"y": 25.973899841308594,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "0c919575-1564-4b1f-87cb-735fc00112b6"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"1fd47b1496099141": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine29",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -313.36090087890625,
+							"y": 10.639439582824709,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "fc8387f4-2e2c-4d4a-ab2a-82193e3ab7a7"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"b60e9c94cd4cc889": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine13",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -278.148193359375,
+							"y": 41.420501708984375,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "d070941a-7b55-47eb-b938-f72eb39ab3f0"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"012b38528d7fe710": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine31",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -274.797607421875,
+							"y": 69.35951232910156,
+							"z": -1.5378639698028564
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "f1d1df33-39d5-4e91-9bf7-d153a2fa921f"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"6541cd1f36f67c27": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine30",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -292.5909118652344,
+							"y": 13.10256004333496,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "d60744bc-8518-460d-b687-449dd40358c0"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		},
+		"d8c12a1996199036": {
+			"parent": "d68cc92e1810828a",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine32",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": {
+							"x": -0.0,
+							"y": 0.0,
+							"z": -0.0
+						},
+						"position": {
+							"x": -269.214599609375,
+							"y": 35.0382194519043,
+							"z": -1.5206890106201172
+						}
+					}
+				},
+				"m_sId": {
+					"type": "ZGuid",
+					"value": "e81353a1-28eb-4d93-aeb1-bee5aebe0130"
+				},
+				"m_eidParent": {
+					"type": "SEntityTemplateReference",
+					"value": "fffffffffffffffe"
+				}
+			},
+			"subsets": {
+				"AudioEmitters": ["fffffffffffffffe"]
+			}
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
 }
