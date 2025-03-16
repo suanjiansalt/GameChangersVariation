@@ -8,8 +8,47 @@
 		"suanjiansalt"
 	],
 	"frameworkVersion": "2.33.20",
-	"contentFolders": [
-		"contents"
+	"options": [
+		{
+			"name": "Facility - Yacht",
+			"image": "blobs/greenland/module002/tile.jpg",
+			"tooltip": "Add Facility - Yacht",
+			"enabledByDefault": false,
+			"type": "checkbox",
+			"contentFolders": [
+				"contents/polarbear_module002"
+			]
+		},
+		{
+			"name": "Facility - Hangar",
+			"image": "blobs/greenland/graduation/tile.jpg",
+			"tooltip": "Add Facility - Hangar",
+			"enabledByDefault": false,
+			"type": "checkbox",
+			"contentFolders": [
+				"contents/polarbear_graduation"
+			]
+		},
+		{
+			"name": "Paris",
+			"image": "blobs/paris/tile.jpg",
+			"tooltip": "Add Paris",
+			"enabledByDefault": false,
+			"type": "checkbox",
+			"contentFolders": [
+				"contents/paris"
+			]
+		},
+		{
+			"name": "Hokkaido",
+			"image": "blobs/hokkaido/tile.jpg",
+			"tooltip": "Add Hokkaido",
+			"enabledByDefault": true,
+			"type": "checkbox",
+			"contentFolders": [
+				"contents/hokkaido"
+			]
+		}
 	],
 	"packagedefinition": [
 		{
