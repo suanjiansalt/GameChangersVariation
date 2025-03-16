@@ -6,4 +6,4 @@ Make the gamechanger your weapon
 
 ---
 
-`suanjiansalt.gamechangers` v0.4.1, by suanjiansalt. This README was automatically generated from the mod's manifest.
+`suanjiansalt.gamechangers` v0.4.2, by suanjiansalt. This README was automatically generated from the mod's manifest.
