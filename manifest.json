@@ -43,6 +43,11 @@
 	"packagedefinition": [
 		{
 			"type": "entity",
+			"partition": "super",
+			"path": "[assembly:/_pro/scenes/missions/thefacility/gamechangers_minefield_module002.brick].entitytype"
+		},
+		{
+			"type": "entity",
 			"partition": "paris",
 			"path": "[assembly:/_pro/scenes/missions/paris/gamechangers_templateminefield.brick].entitytype"
 		},
