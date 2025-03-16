@@ -1,0 +1,669 @@
+{
+	"tempHash": "007E132BCA1A8DAD",
+	"tbluHash": "00DF965C376D92FA",
+	"rootEntity": "fffffffffffffffe",
+	"entities": {
+		"fffffffffffffffe": {
+			"parent": null,
+			"name": "Scene",
+			"factory": "[modules:/zspatialentity.class].pc_entitytype",
+			"blueprint": "[modules:/zspatialentity.class].pc_entityblueprint"
+		},
+		"cafe742275a405be": {
+			"parent": "fffffffffffffffe",
+			"name": "Gamechangers_Hokkaido_MineFieldVIPSuites",
+			"factory": "[modules:/zentity.class].pc_entitytype",
+			"blueprint": "[modules:/zentity.class].pc_entityblueprint"
+		},
+		"cafed0316b448bbe": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine03",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -88.0, "y": -24.0, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "50114d9c-73c9-480a-9591-94753c974feb" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe5e569a2d449a": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine01",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -101.35818481445312, "y": -6.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "d9363c31-46c2-4bc5-b1cc-4e09ea324f9a" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe315e1eb6ab14": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine02",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -96.0, "y": -15.0, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "89efbf21-d100-428f-919c-8516d34532cc" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe1e30a067c363": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine00",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -115.03818481445312, "y": -28.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafeb7e4997f6cf8": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine04",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -93.35818481445312, "y": -18.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe30423b76a421": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine05",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -97.55818176269533, "y": -11.336871147155762, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe4b8e3d0b4b0d": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine06",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -84.05818481445311, "y": -24.736871337890623, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe2982b0358db3": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine07",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -101.35818481445312, "y": -11.136871337890623, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafec888fae0857e": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine08",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -89.35818481445312, "y": -19.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafeef809ff136c3": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine09",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.01978234098566587 },
+						"position": { "x": -74.2151821899414, "y": -25.156871795654297, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafeaf5fae58d950": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine10",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -79.42518481445312, "y": -28.881871337890622, "z": -4.374500099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafee1c81942a9bd": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine14",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -90.99998975471502, "y": 0.019780230587760947, "z": -45.0197802305866 },
+						"position": { "x": -107.5381851196289, "y": -7.536871337890625, "z": -3.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe35cc9eed3ab5": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine11",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -63.038185119628906, "y": -26.436871337890626, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafeec01dcd7f8ec": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine18",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -54.238182067871094, "y": -21.0368709564209, "z": -4.828184909820557 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafecddf76b79bd5": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine12",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -79.0381851196289, "y": -25.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe147df53537a4": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine13",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -68.0381851196289, "y": -28.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe32c480ed4f77": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine15",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -98.0381851196289, "y": -31.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafefb24af8267ab": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine20",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -195.26616730742143, "y": -90.96043401650938, "z": -150.26616408714554 },
+						"position": { "x": -49.06818435668945, "y": -14.136871337890623, "z": -3.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe523ff9488431": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine16",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -71.04818725585938, "y": -25.636871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafec806f889126c": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine19",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -54.538185119628906, "y": -25.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafeee7cfafcf9b3": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine22",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -49.538185119628906, "y": -20.23687171936035, "z": -4.821001052856445 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafea27a7d9b6151": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine17",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -58.538185119628906, "y": -27.136871337890625, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe9231f260c6ae": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine27",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -38.538185119628906, "y": -10.236871719360352, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe44ca728ae82a": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine28",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -43.538185119628906, "y": -1.2368717193603516, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe30d5b9becd6b": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine30",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -43.538185119628906, "y": -31.23687171936035, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafea0aebe8c08a0": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine26",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -89.99999573113152, "y": 0.01712840765733553, "z": 45.982879360715735 },
+						"position": { "x": -38.1381851196289, "y": -4.036871719360352, "z": -4.2210001945495605 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe436911a70b46": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine24",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -44.538185119628906, "y": -10.236871719360352, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe7e776b3507b5": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine21",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -100.5381851196289, "y": -29.236871337890623, "z": -4.221000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe69d492427ef5": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine29",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -97.5381851196289, "y": -0.23687171936035156, "z": -4.821000194549561 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe01369dc1ecfa": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine25",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -42.538185119628906, "y": -6.236871719360352, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafedf4ad07886fc": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine23",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -45.538185119628906, "y": -14.236871719360352, "z": -4.821000099182129 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		},
+		"cafe8753876570ef": {
+			"parent": "cafe742275a405be",
+			"name": "SetPiece_GameChanger_Unique_HM_ProximityMine31",
+			"factory": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entitytype",
+			"blueprint": "[assembly:/_pro/design/setpieces/unique/setpiece_gamechangers_unique.template?/setpiece_gamechanger_unique_hm_proximitymine.entitytemplate].pc_entityblueprint",
+			"properties": {
+				"m_mTransform": {
+					"type": "SMatrix43",
+					"value": {
+						"rotation": { "x": -0.0, "y": 0.0, "z": -0.0 },
+						"position": { "x": -127.5381851196289, "y": -31.23686981201172, "z": -4.821000194549561 }
+					}
+				},
+				"m_sId": { "type": "ZGuid", "value": "ed0afd05-5eac-40ac-9816-db20193eddc1" },
+				"m_bForceVisible": { "type": "bool", "value": false },
+				"m_nViewportVisibility": { "type": "uint8", "value": 255 },
+				"m_eidParent": { "type": "SEntityTemplateReference", "value": "fffffffffffffffe", "postInit": true }
+			},
+			"subsets": { "AudioEmitters": ["fffffffffffffffe"] }
+		}
+	},
+	"propertyOverrides": [],
+	"overrideDeletes": [],
+	"pinConnectionOverrides": [],
+	"pinConnectionOverrideDeletes": [],
+	"externalScenes": [],
+	"subType": "brick",
+	"quickEntityVersion": 3.1,
+	"extraFactoryDependencies": [],
+	"extraBlueprintDependencies": [],
+	"comments": []
+}
